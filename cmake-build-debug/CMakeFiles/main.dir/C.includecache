@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mariamartinezsotelo/Downloads/P1-2/dynamic_list.h
+types.h
+/Users/mariamartinezsotelo/Downloads/P1-2/types.h
+
+/Users/mariamartinezsotelo/Downloads/P1-2/list/list.h
+stdbool.h
+-
+../types.h
+/Users/mariamartinezsotelo/Downloads/P1-2/types.h
+
+/Users/mariamartinezsotelo/Downloads/P1-2/main.c
+stdio.h
+-
+types.h
+/Users/mariamartinezsotelo/Downloads/P1-2/types.h
+string.h
+-
+static_list.h
+/Users/mariamartinezsotelo/Downloads/P1-2/static_list.h
+dynamic_list.h
+/Users/mariamartinezsotelo/Downloads/P1-2/dynamic_list.h
+list/list.h
+/Users/mariamartinezsotelo/Downloads/P1-2/list/list.h
+
+/Users/mariamartinezsotelo/Downloads/P1-2/static_list.h
+types.h
+/Users/mariamartinezsotelo/Downloads/P1-2/types.h
+
+/Users/mariamartinezsotelo/Downloads/P1-2/types.h
+
